@@ -1,0 +1,29 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='24'>
+  <defs>
+    <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:%234f7302;stop-opacity:1' />
+      <stop offset='100%' style='stop-color:%2373a607;stop-opacity:1' />
+    </linearGradient>
+  </defs>
+  <rect x='0.5%' y='0.5%' width='99%' height='99%' fill='url(%23grad)' stroke='%230007' stroke-width='2' rx='2' />
+  <image href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVUlEQVR4AZSO2wnAMAwDpc7k/SfwTmoUKDSOU2jgPiKfHxf2pxFtVNECJC2MRrxFZaazlkf8lNxpca6LCBiHHRaXe3zfUewKNZsTa9j9/4kkQZ7xhhsAAP//I3HUNgAAAAZJREFUAwApSSgL3pxKtwAAAABJRU5ErkJgggAA' x='1.5%' y='16%' width='16' height='16' />
+  <text x='27.5%' 
+        y='55%' 
+        dominant-baseline='middle' 
+        text-anchor='middle' 
+        fill='%23ffffff' 
+        font-family='Courier New' 
+        font-size='14' 
+        font-weight='700' 
+        style='filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));'>
+        Мой прогресс в мире пони
+    </text> 
+    <rect x='87%' y='18%' width='16' height='16' fill='%23999' stroke='%23000a' stroke-width='1.35' rx='1' />
+    <rect x='87.4%' y='65%' width='12' height='2' fill='%23222' />
+    <rect x='91%' y='18%' width='16' height='16' fill='%23999' stroke='%23000a' stroke-width='1.35' rx='1' />
+    <rect x='92.1%' y='34%' width='8' height='6' fill='%23999' stroke='%23000' stroke-width='1.35' />
+    <rect x='91.6%' y='47%' width='8' height='6' fill='%23999' stroke='%23000' stroke-width='1.35' />
+    <rect x='95%' y='18%' width='16' height='16' fill='%23999' stroke='%23000a' stroke-width='1.35' rx='1' />
+    <rect x='87%' y='18%' width='14' height='2' fill='%23222' transform='rotate(45, 435.5, 56.5)' />
+    <rect x='87%' y='18%' width='14' height='2' fill='%23222' transform='rotate(135, 442.9, 17)' />
+</svg>
