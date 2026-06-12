@@ -1,0 +1,50 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='270'>
+  <rect x='0.5%' y='0.5%' width='99%' height='99%' fill='%23ddd' stroke='%230007' stroke-width='2' rx='2' />
+
+  <text x='30%' y='10%' font-family='sans-serif' fill='%23000' font-size='22' font-weight='700'>&quot;Дружба это чудо!&quot;</text>
+
+  <text x='4%' y='20%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 1</text>
+  <rect x='20%' y='15%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='15%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='20%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='29%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 2</text>
+  <rect x='20%' y='24%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='24%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='29%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='38%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 3</text>
+  <rect x='20%' y='33%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='33%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='38%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='47%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 4</text>
+  <rect x='20%' y='42%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='42%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='47%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='56%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 5</text>
+  <rect x='20%' y='51%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='51%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='56%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='65%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 6</text>
+  <rect x='20%' y='60%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='60%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='65%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='74%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 7</text>
+  <rect x='20%' y='69%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='69%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='74%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='83%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 8</text>
+  <rect x='20%' y='78%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='78%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='83%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+
+  <text x='4%' y='92%' font-family='sans-serif' fill='%23000' font-size='14'>Сезон 9</text>
+  <rect x='20%' y='87%' width='75%' height='7%' fill='%23333'/>
+  <rect x='20%' y='87%' width='0%' height='7%' fill='%2300bb55' />
+  <text x='44%' y='92%' font-family='sans-serif' fill='%23fff' font-size='14' style='filter: drop-shadow(0px 0px 2px rgba(0,0,0,1));'>ещё не начал смотреть</text>
+</svg>
