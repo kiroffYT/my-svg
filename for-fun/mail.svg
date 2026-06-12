@@ -1,0 +1,76 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='326'>
+  <defs>
+    <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#000273;stop-opacity:1' />
+      <stop offset='100%' style='stop-color:#0007a6;stop-opacity:1' />
+    </linearGradient>
+  </defs>
+  
+  <rect x='0.5%' y='0.5%' width='99%' height='23' fill='url(#grad)' stroke='#00000077' stroke-width='2' rx='2' />
+  
+  <image href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVUlEQVR4AZSO2wnAMAwDpc7k/SfwTmoUKDSOU2jgPiKfHxf2pxFtVNECJC2MRrxFZaazlkf8lNxpca6LCBiHHRaXe3zfUewKNZsTa9j9/4kkQZ7xhhsAAP//I3HUNgAAAAZJREFUAwApSSgL3pxKtwAAAABJRU5ErkJggg==' 
+         x='8' y='4' width='16' height='16' />
+         
+  <text x='7%' y='14' dominant-baseline='middle' fill='#ffffff' font-family='Courier New' font-size='14' font-weight='700' style='filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));'>
+    Письмо от: JeddSelenot@gmail.com
+  </text> 
+  
+  <rect x='87%' y='4' width='16' height='16' fill='#999999' stroke='#000000aa' stroke-width='1.35' rx='1' />
+  <rect x='87.4%' y='15' width='12' height='2' fill='#222222' />
+  
+  <rect x='91%' y='4' width='16' height='16' fill='#999999' stroke='#000000aa' stroke-width='1.35' rx='1' />
+  <rect x='92.1%' y='8' width='8' height='6' fill='#999999' stroke='#000000' stroke-width='1.35' />
+  <rect x='91.6%' y='11' width='8' height='6' fill='#999999' stroke='#000000' stroke-width='1.35' />
+  
+  <rect x='95%' y='4' width='16' height='16' fill='#999999' stroke='#000000aa' stroke-width='1.35' rx='1' />
+  <rect x='95.5%' y='11' width='11' height='2' fill='#222222' transform='rotate(45, 464, 12)' />
+  <rect x='95.5%' y='11' width='11' height='2' fill='#222222' transform='rotate(-45, 464, 12)' />
+
+  <g transform='translate(0, 24)'>
+    <rect x='0.5%' y='0.5%' width='99%' height='300' fill='#ddd' stroke='#0007' stroke-width='2' rx='2' />
+
+    <text x='3%' y='5%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    Привет! Знаю, что ты недавно увлёкся такой франшизой,
+    </text> 
+    <text x='3%' y='10%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    как "My Little Pony". Хочу тебе прислать программу,
+    </text> 
+    <text x='3%' y='15%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    без которой тебе наверняка будет скучно изучать то,
+    </text> 
+    <text x='3%' y='20%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    что происходит со всем мультсериалом.
+    </text> 
+    <text x='3%' y='30%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    Приятного использования!
+    </text> 
+    <text x='3%' y='40%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    P.S. Если вдруг я когда-то тебе понадоблюсь, напиши
+    </text> 
+    <text x='3%' y='45%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='14' font-weight='700'>
+    мне на эту же почту.
+    </text> 
+    <rect x='1.5%' y='70%' width='97%' height='15%' fill='#eee' stroke='#0007' stroke-width='1' rx='1' />
+    <image href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4AcyPLQ7CQBBGJ/WVSAwORcJBuACCc3ACwjEQXICDkKDqMJWVPcC2b9Tka1f0R7TpS2b6pt/OFrbwyQZUzyJFcucQkHo5hu1OpdN73rGZRIBV+8sA/ojkZjwgDk6tNxJwrD+m6FXU0zPjVzjcv6YgI+rp8R5AMZd1Av6Psym6kXp6ZnyD8nU1BRlRT4/3AIq5rBPQ3t6msFHzaw2o1dPzvQMAAP//cT7ZgAAAAAZJREFUAwCKiXWZAfm7bQAAAABJRU5ErkJgggAA' 
+         x='4%' y='72.5%' width='32' height='32' />
+    <text x='13%' y='76%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='22' font-weight='700'>
+    Equa.zip
+    </text> 
+    <text x='13%' y='81%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='12' font-weight='700'>
+    Архив ZIP
+    </text> 
+    <rect x='77%' y='72.5%' width='20%' height='10%' fill='#eee' stroke='#0007' stroke-width='1' rx='1' />
+    <text x='80%' y='78%' dominant-baseline='middle' fill='#000' font-family='Courier New' font-size='16' font-weight='700'>
+    Скачать
+    </text>
+    <text x='3%' y='89%' dominant-baseline='middle' fill='#00c' font-family='Courier New' font-size='12' font-weight='700'>
+    Ответить
+    </text> 
+    <text x='20%' y='89%' dominant-baseline='middle' fill='#00c' font-family='Courier New' font-size='12' font-weight='700'>
+    Переместить в корзину
+    </text>
+    <text x='56%' y='89%' dominant-baseline='middle' fill='#00c' font-family='Courier New' font-size='12' font-weight='700'>
+    Пожаловаться
+    </text>
+  </g>
+</svg>
