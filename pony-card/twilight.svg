@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&amp;family=Comfortaa&amp;display=swap');
+      text { font-family: 'Dela Gothic One', 'Roboto', sans-serif; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#d7d7d7" />
+  <rect width="89%" height="100%" fill="#883388" />
+  <rect width="1%" height="100%" x="314" y="0" fill="#ffffff" />
+  <rect width="0.8%" height="100%" x="308" y="0" fill="#ffffffcf" />
+  <rect width="0.6%" height="100%" x="302" y="0" fill="#ffffff9f" />
+  <rect width="0.4%" height="100%" x="296" y="0" fill="#ffffff6f" />
+  <rect width="0.2%" height="100%" x="290" y="0" fill="#ffffff3f" />
+
+  <image style="image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor;" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADASURBVDhPpYyxDcJQEEP/CIyCREtBzwZUfxFqsggbUKNIaTIEBT1N6jSH7/u4nH4CUsRTZPmf7SRZj27SErg3u2b+TRtoxC6b28IXN/rzQrgcUsqV1ptKx/Eup06ux/NjGHrp5bVPF01jj/jl+QFP13oDJX9tYpto6o2IbxxcAIymbMyJGzzN+eYbaLC9sNkG2gJKVAKfcy5Jaxs4BrFBD7QYItuw4RmVxn/vF9v4+/eYftp4DNiA8kgl8LZZh8gbyfMCXYOfSZ8AAAAASUVORK5CYII=" x="10" y="300" width="50" height="50" />
+
+  <text x="10" y="40" text-anchor="start" fill="#ffffff" font-size="36">ИСКОРКА</text>
+
+  <!-- Типы данных -->
+  <text x="10" y="80" text-anchor="start" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ПОЛ</text>
+  <text x="10" y="105" text-anchor="start" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ТИП</text>
+  <text x="10" y="155" text-anchor="start" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ДОМ</text>
+  <text x="10" y="180" text-anchor="start" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ХАРАКТЕР</text>
+
+  <!-- Сами данные -->
+  <text x="280" y="80" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ЖЕНСКИЙ</text>
+  <text x="280" y="105" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">ЕДИНОРОГ <tspan font-size="10" fill="#ffffff7f">(до 4 сезона)</tspan></text>
+  <text x="280" y="130" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">АЛИКОРН <tspan font-size="10" fill="#ffffff7f">(после 4 сезона)</tspan></text>
+  <text x="280" y="155" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">КАНТЕРЛОТ</text>
+  <text x="280" y="180" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">УМНАЯ</text>
+  <text x="280" y="205" text-anchor="end" fill="#ffffff" font-size="16" style="font-family: Comfortaa;">РАЦИОНАЛЬНАЯ</text>
+
+  <rect width="75%" height="0.5%" x="10" y="215" fill="#ffffff3f" />
+
+  <foreignObject x="10" y="225" width="260" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Comfortaa; font-size: 10px; color: #fff;">
+      Является одной из главных героинь всего мультсериала. До прихода <a href="https://mlp.fandom.com/ru/wiki/%D0%9B%D0%BE%D1%80%D0%B4_%D0%A2%D0%B8%D1%80%D0%B5%D0%BA" style="color: #fff;"><u>лорда Тирека</u></a> проживала и руководила библиотекой "Золотой дуб". После возглавила Школу Дружбы, взяв на себя все соответствующие обязанности.
+    </div>
+  </foreignObject>
+  
+  <foreignObject x="70" y="310" width="260" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Comfortaa; font-size: 22px; color: #fff;">
+      Подробнее <a href="https://mlp.fandom.com/ru/wiki/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%98%D1%81%D0%BA%D0%BE%D1%80%D0%BA%D0%B0" style="color: #fff;"><b>здесь</b></a>
+    </div>
+  </foreignObject>
+
+  <image href="https://files.everypony.me/smiles/twilight/0.gif" x="325" y="5" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/1.gif" x="325" y="45" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/2.gif" x="325" y="85" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/3.gif" x="325" y="125" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/4.gif" x="325" y="165" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/5.gif" x="325" y="205" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/6.gif" x="325" y="245" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/7.gif" x="325" y="285" width="32" height="32" />
+  <image href="https://files.everypony.me/smiles/twilight/8.gif" x="325" y="325" width="32" height="32" />
+</svg>
