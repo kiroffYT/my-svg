@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="40%" height="40%">
+  <style>
+    .bg { fill: #1e1e2e; }
+    .time { font-family: 'Courier New', monospace; font-size: 72px; fill: #cba6f7; font-weight: bold; }
+    .date { font-family: 'Courier New', sans-serif; font-size: 32px; fill: #bac2de; letter-spacing: 2px; }
+  </style>
+
+  <rect width="100%" height="100%" rx="15" class="bg"/>
+
+  <text x="50%" y="80" text-anchor="middle" id="clock-time" class="time">00:00:00</text>
+  <text x="50%" y="120" text-anchor="middle" id="clock-date" class="date">01.01.2026</text>
+
+  <script type="text/javascript">
+    <![CDATA[
+    function updateClock() {
+      const now = new Date();
+
+      const hours = String(now.getHours()).padStart(2, '0');
+      const minutes = String(now.getMinutes()).padStart(2, '0');
+      const seconds = String(now.getSeconds()).padStart(2, '0');
+
+      const day = String(now.getDate()).padStart(2, '0');
+      const month = String(now.getMonth() + 1).padStart(2, '0');
+      const year = now.getFullYear();
+
+      document.getElementById('clock-time').textContent = `${hours}:${minutes}:${seconds}`;
+      document.getElementById('clock-date').textContent = `${day}.${month}.${year}`;
+    }
+
+    setInterval(updateClock, 1000);
+    updateClock();
+    ]]>
+  </script>
+</svg>
