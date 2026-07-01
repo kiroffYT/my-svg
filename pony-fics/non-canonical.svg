@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <polygon points="58,6 142,6 194,58 194,142 142,194 58,194 6,142 6,58" fill="#C11B17" />
+  
+  <polygon points="60,12 140,12 188,60 188,140 140,188 60,188 12,140 12,60" fill="none" stroke="#FFFFFF" stroke-width="4" />
+  
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="100" dy="6" font-size="55">НЕ</tspan>
+    <tspan x="100" dy="44">КАНОН</tspan>
+  </text>
+</svg>
