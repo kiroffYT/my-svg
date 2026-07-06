@@ -1,4 +1,4 @@
-<svg xmlns='http://www.w3.org/2000/svg' width="480" height="320">
+<svg xmlns='http://www.w3.org/2000/svg' width="480" height="264">
   <defs>
     <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='100%'>
       <stop offset='0%' style='stop-color:#4f7302;stop-opacity:1' />
@@ -27,7 +27,7 @@
   <rect x='95.5%' y='11' width='11' height='2' fill='#222222' transform='rotate(-45, 464, 12)' />
 
   <g transform='translate(0, 24)'>
-    <rect x='0.5%' y='0.5%' width='99%' height='240' fill='#ddd' stroke='#0007' stroke-width='2' rx='2' />
+    <rect x='0.5%' y='0.5%' width='99%' height='200' fill='#ddd' stroke='#0007' stroke-width='2' rx='2' />
 
     <text x='30%' y='7%' font-family='sans-serif' fill='#000' font-size='22' font-weight='700'>&quot;Дружба это чудо!&quot;</text>
 
