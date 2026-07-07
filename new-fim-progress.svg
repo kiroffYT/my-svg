@@ -6,19 +6,17 @@
     <style>
       .title {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 64px;
         fill: #ffffff;
       }
       .text {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 24px;
         fill: #ffffff;
       }
     </style>
   </defs>
 
   <rect x="20" y="5" width="1230" height="860" fill="#499900" rx="24" stroke="#355500" stroke-width="3" filter="url(#shadow)" />
-  <text x="6%" y="7%" class="title">Прогресс по ДЭЧ <tspan font-size="0.6em">(Дружба - это чудо)</tspan></text>
+  <text x="15%" y="8%" class="title" font-size="64">Прогресс по ДЭЧ <tspan font-size="0.6em">(Дружба - это чудо)</tspan></text>
 
   <rect x="64" y="100" width="1130" height="3" fill="#fff5"/>
 
@@ -28,8 +26,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="77" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S1</text>
-    <text x="30%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">2/26 серий (7.7%)</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S1</text>
+    <text x="28%" y="42" class="text" font-size="40px" fill="#fff">2/26 серий (7.7%)</text>
   </g>
   <g transform="translate(210, 210)">
 
@@ -37,8 +35,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S2</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S2</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 290)">
 
@@ -46,8 +44,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S3</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S3</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 370)">
 
@@ -55,8 +53,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S4</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S4</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 450)">
 
@@ -64,8 +62,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S5</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S5</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 530)">
 
@@ -73,8 +71,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S6</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S6</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 610)">
 
@@ -82,8 +80,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S7</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S7</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 690)">
 
@@ -91,8 +89,8 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S8</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S8</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
   <g transform="translate(210, 770)">
 
@@ -100,7 +98,7 @@
 
     <rect id="progress-fill" x="0" y="0" width="0" height="60" fill="#66d400" rx="24" />
 
-    <text x="-12%" y="55" font-family="Dela Gothic One" font-size="72px" fill="#fff">S9</text>
-    <text x="23%" y="40" font-family="Comfortaa" font-size="36px" fill="#fff">ещё не начал смотреть</text>
+    <text x="-12%" y="55" class="title" font-size="72px" fill="#fff">S9</text>
+    <text x="25%" y="42" class="text" font-size="36px" fill="#fff">ещё не начал смотреть</text>
   </g>
 </svg>
