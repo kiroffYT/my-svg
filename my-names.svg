@@ -1,51 +1,145 @@
-<svg xmlns='http://www.w3.org/2000/svg' width="1600" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 900" width="100%" height="100%">
   <defs>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity="0.5"/>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+      
+      .pixel-text-title {
+        font-family: 'VT323', monospace;
+        font-size: 64px;
+        fill: #ffffff;
+        font-smooth: never;
+        -webkit-font-smoothing: none;
+        letter-spacing: 0.5px;
+      }
+
+      .pixel-text-body {
+        font-family: 'VT323', monospace;
+        font-size: 48px;
+        fill: #000000;
+        font-smooth: never;
+        -webkit-font-smoothing: none;
+      }
+
+      /* Стиль для текста внутри кнопки ОК */
+      .pixel-text-btn {
+        font-family: 'VT323', monospace;
+        font-size: 38px;
+        fill: #000000;
+        font-smooth: never;
+        -webkit-font-smoothing: none;
+      }
+    </style>
+
+    <filter id="xp-shadow" x="-5%" y="-5%" width="115%" height="115%">
+      <feDropShadow dx="5" dy="5" stdDeviation="5" flood-opacity="0.3"/>
     </filter>
+
+    <linearGradient id="xp-titlebar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a1c46d" />
+      <stop offset="10%" stop-color="#bcd88f" />
+      <stop offset="25%" stop-color="#7ca83c" />
+      <stop offset="85%" stop-color="#578022" />
+      <stop offset="100%" stop-color="#3c5f11" />
+    </linearGradient>
+
+    <linearGradient id="xp-close-btn" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d7532a" />
+      <stop offset="40%" stop-color="#e36c41" />
+      <stop offset="85%" stop-color="#b0310f" />
+      <stop offset="100%" stop-color="#8a1f05" />
+    </linearGradient>
+
+    <linearGradient id="xp-olive-btn" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#b4d485" />
+      <stop offset="40%" stop-color="#7ba43b" />
+      <stop offset="85%" stroke="#496e19" stop-color="#496e19" />
+      <stop offset="100%" stop-color="#33510e" />
+    </linearGradient>
+
+    <linearGradient id="xp-btn-face" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="20%" stop-color="#fcfbfa" />
+      <stop offset="85%" stop-color="#e3decb" />
+      <stop offset="100%" stop-color="#d6cfb7" />
+    </linearGradient>
+    
+    <mask id="window-mask">
+      <rect x="10" y="10" width="1890" height="580" rx="8" ry="8" fill="white" />
+      <rect x="10" y="45" width="1890" height="545" fill="white" />
+    </mask>
   </defs>
 
-  <rect x="2.5%" y="1%" width="95%" height="720" fill="#499900" rx="32" stroke="#355500" stroke-width="8" filter="url(#shadow)" />
-  <text x="10%" y="9%" font-family="Roboto" font-size="72" font-weight="700" fill="white">
-    Альтернативные имена и никнеймы
-  </text>
+  <g filter="url(#xp-shadow)">
+    <rect x="10" y="10" width="1890" height="870" fill="#f1efe2" stroke="#578022" stroke-width="3" rx="7" />
 
-  <rect x="8%" y="12%" width="85%" height="3" fill="#fff4" />
+    <g mask="url(#window-mask)">
+      <rect x="10" y="10" width="1890" height="84" fill="url(#xp-titlebar)" />
+    </g>
 
-  <text x="5%" y="20%" font-family="sans-serif" font-size="48" fill="white">
-    Лайм Спарк (Вспышка Зелени) — имя моего персонажа.
-  </text>
-  <text x="5%" y="28%" font-family="sans-serif" font-size="48" fill="white">
-    NotElseDJ (NE-DJ) — псевдоним в музыкальном мире.
-  </text>
-  <text x="5%" y="36%" font-family="sans-serif" font-size="48" fill="white">
-    TwilightBoy — произошло от некоторой любви к Искорке.
-  </text>
-  <text x="5%" y="44%" font-family="sans-serif" font-size="48" fill="white">
-    0x2342 — предполагается как второй музыкальный псевдоним.
-  </text>
-  <text x="5%" y="52%" font-family="sans-serif" font-size="48" fill="white">
-    ki.dev <tspan font-size="32">(читать как "Ки-дэв")</tspan> — названия моего канала на YT про ПК.
-  </text>
+    <text x="25" y="72" class="pixel-text-title">
+      Мои альтернативные имена и никнеймы
+    </text>
 
-  <rect x="2.9%" y="55%" width="94%" height="3" fill="#0002" />
+    <g transform="translate(1660, 17) scale(2.5)">
+      <rect width="26" height="26" rx="3" fill="url(#xp-olive-btn)" stroke="#ffffff" stroke-width="1" />
+      <rect x="5" y="17" width="16" height="4" fill="#ffffff" />
+    </g>
 
-  <text x="30%" y="61%" font-family="Roboto" font-size="48" font-weight="700" fill="white">
-    Временно неиспользуемое
-  </text>
-  <text x="5%" y="66%" font-family="sans-serif" font-size="48" fill="white">
-    Мистер Капот
-  </text>
-  <text x="25%" y="72%" font-family="sans-serif" font-size="48" fill="white">
-    Кимороно
-  </text>
-  <text x="60%" y="72%" font-family="sans-serif" font-size="48" fill="white">
-    Koftochka
-  </text>
-  <text x="40%" y="79%" font-family="sans-serif" font-size="48" fill="white">
-    КилькаЗавр
-  </text>
-  <text x="40%" y="66%" font-family="sans-serif" font-size="36" fill="white">
-    Жёсткий Откалиброванный Поляризатор Аккордеона
-  </text>
+    <g transform="translate(1740, 17) scale(2.5)">
+      <rect width="26" height="26" rx="3" fill="url(#xp-olive-btn)" stroke="#ffffff" stroke-width="1" />
+      <rect x="5" y="6" width="16" height="14" fill="none" stroke="#ffffff" stroke-width="2" />
+      <rect x="6" y="5" width="14" height="4" fill="#ffffff" />
+    </g>
+
+    <g transform="translate(1820, 17) scale(2.5)">
+      <rect width="28" height="26" rx="3" fill="url(#xp-close-btn)" stroke="#ffffff" stroke-width="1" />
+      <path d="M8,7 L20,19 M20,7 L8,19" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+    </g>
+
+    <rect x="15" y="97" width="1880" height="776" fill="#ffffff" stroke="#716f64" stroke-width="1" />
+    
+    <text x="40" y="160" class="pixel-text-body">
+      Лайм Спарк (Вспышка Зелени) - имя моего персонажа. Живёт в своём ТГК.
+    </text>
+    <text x="40" y="225" class="pixel-text-body">
+      NotElseDJ (NE-DJ) - псевдоним в музыкальном мире. На данный момент треков нет.
+    </text>
+    <text x="40" y="290" class="pixel-text-body">
+      TwilightBoy - произошло от того, что я фанател от Искорки и её характера.
+    </text>
+    <text x="40" y="355" class="pixel-text-body">
+      0x2342 - предполгается как второй муз. псевдоним, но уже для экспериментов.
+    </text>
+    <text x="40" y="420" class="pixel-text-body">
+      ki.dev <tspan font-size="24">(читать как "Ки-дэв")</tspan> - название моего канала на YouTube про ПК и их мир.
+    </text>
+    <text x="700" y="515" class="pixel-text-body">
+      Временно неиспользуемое
+    </text>
+    <text x="40" y="610" class="pixel-text-body">
+      Мистер Капот
+    </text>
+    <text x="450" y="610" class="pixel-text-body">
+      Жёсткий Откалиброванный Поляризатор Аккордеона
+    </text>
+    <text x="40" y="690" class="pixel-text-body">
+      Кимороно (キモロノ)
+    </text>
+    <text x="600" y="690" class="pixel-text-body">
+      Koftochka (Кофточка)
+    </text>
+    <text x="1200" y="690" class="pixel-text-body">
+      КилькаЗавр
+    </text>
+    <text x="120" y="825" class="pixel-text-body">
+      Возможно, список будет пополняться, так что готовьтесь :)
+    </text>
+
+    <g transform="translate(1680, 780)">
+      <rect width="180" height="65" rx="3" fill="none" stroke="#316ac5" stroke-width="1" />
+      <rect x="1" y="1" width="178" height="63" rx="2" fill="url(#xp-btn-face)" stroke="#7f9db9" stroke-width="1" />
+      <text x="90" y="44" class="pixel-text-btn" text-anchor="middle">ОК</text>
+    </g>
+
+  </g>
 </svg>
